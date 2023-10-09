@@ -1,0 +1,16 @@
+
+.containerDisplay{
+    display: flex !important;
+}
+
+.cartContainer{
+    height: 80vh;
+}
+
+.btnheight{
+    padding: 12px 24px;
+}
+
+.main-card{
+    height: auto;
+}

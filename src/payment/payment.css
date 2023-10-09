@@ -1,0 +1,18 @@
+
+.main{
+    max-width: 500px;
+    height: 90vh;
+}
+
+/* form{
+    height: 20rem;
+} */
+
+.payment-form{
+    height: 35rem;
+    /* border: 2px solid red; */
+}
+
+.submitBtn{
+    width: 100px;
+}
